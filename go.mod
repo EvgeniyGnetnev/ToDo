@@ -1,4 +1,4 @@
-module todo
+module github.com/EvgeniyGnetnev/ToDo
 
 go 1.23.2
 
