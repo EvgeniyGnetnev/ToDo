@@ -2,7 +2,6 @@ package main
 
 import (
 	"log"
-
 	todo "github.com/EvgeniyGnetnev/ToDo"
 	"github.com/EvgeniyGnetnev/ToDo/pkg/handler"
 	"github.com/EvgeniyGnetnev/ToDo/pkg/repository"
